@@ -1,1 +1,1 @@
-English to German IWSLT
+English to German IWSLT 2017 training. dev2010 dev set target bleu ~26

@@ -56,7 +56,7 @@ public class ShiftConvertAll  {
     boolean noRebinarization = false;
     String modelPath = "/Users/anhadmohananey/Downloads/edu/stanford/nlp/models/srparser/englishSR.ser.gz";
     String taggerPath = "/Users/anhadmohananey/Downloads/stanford-postagger-2018-02-27/models/english-left3words-distsim.tagger";
-    File file = new File("/Users/anhadmohananey/Desktop/NLPResearch/parsedmtdata/en-de/train_un.en");
+    File file = new File("/scratch/am8676/parsedmtdata/en-de/OpenSubtitles2016.de-en.en");
 
     Scanner sc = new Scanner(file);
 
